@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM debian:stretch-slim
 
 MAINTAINER Emanuele Mazzotta <hello@mazzotta.me>
 
